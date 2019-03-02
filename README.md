@@ -9,7 +9,8 @@ The work is, throughout, restrained yet unyielding. Every push has an equal pull
 
 ---
 
-_Written as part of Marcus Jackson's Masters Thesis_
+_Written as part of Marcus Jackson's Masters Thesis:_ 
+__DISCONTINUITY:__ a compositional approach to the dynamic decoupling of gesture and sound in live performance
 
 #### Performance History
 
