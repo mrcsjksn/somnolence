@@ -15,6 +15,8 @@ Written as part of Marcus Jackson's Masters Thesis:
 
 __DISCONTINUITY:__ a compositional approach to the dynamic decoupling of gesture and sound in live performance
 
+---
+
 #### Performance History
 
 __10/10/18:__ Performed in workshop by Anne La Berge and Marcus Jackson — [audio here](https://www.youtube.com/watch?v=a99fSd9Zcng)
